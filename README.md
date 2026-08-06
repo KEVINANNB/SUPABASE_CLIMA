@@ -86,8 +86,7 @@ Body:
 # 1. instalar dependencias
 npm install
 
-# 2. crear el archivo .env a partir del ejemplo
-cp .env.example .env
+# 2. crear el archivo .env 
 # y completar VITE_SUPABASE_URL y VITE_SUPABASE_ANON_KEY
 # (Supabase > Project Settings > API)
 
@@ -95,7 +94,7 @@ cp .env.example .env
 npm run dev
 ```
 
-Abre `http://localhost:5173` — deberías ver la tarjeta con la última
+Abre `http://localhost:xxx` — deberías ver la tarjeta con la última
 lectura y la tabla con el historial.
 
 ## Scripts disponibles

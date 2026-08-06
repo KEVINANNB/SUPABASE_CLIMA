@@ -1,4 +1,4 @@
-# Backend histórico para variables de clima (Supabase)
+# Backend para variables de clima (Supabase)
 
 Aplicación React + Vite que consume datos históricos de una estación
 meteorológica IoT (temperatura, presión y humedad) almacenados en una

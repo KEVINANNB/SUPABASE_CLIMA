@@ -5,8 +5,8 @@ meteorológica IoT (temperatura, presión y humedad) almacenados en una
 tabla de **Supabase** (`datos_sensor`), y los muestra en un dashboard
 con la lectura más reciente y el historial de lecturas.
 
-> Actividad: *Backend histórico para variables de clima desde Supabase
-> (Backendless DB)* — Aplicaciones Telemáticas Basadas en Web.
+<img width="1307" height="628" alt="image" src="https://github.com/user-attachments/assets/4ddd72d5-ee26-409e-8ba1-9a1ff55d8d2c" />
+
 
 ## Arquitectura
 
